@@ -1,0 +1,144 @@
+.home{
+    background-image: url(./couple-443600_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    position: relative;    
+}
+.imgs{
+    height: 100vh;
+}
+.home::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.349);
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+}
+.para{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.head{
+    margin-top: 100px;
+}
+.head h1{
+    font-family: 'Dancing Script', cursive;
+
+}
+.fb{
+    margin-left: 5px;
+    height: 26px;
+    width: 26px;
+}
+.twt{
+    margin-left: 5px;
+    height: 26px;
+    width: 26px;
+}
+.goog{
+    margin-left: 5px;
+    height: 26px;
+    width: 26px;
+}
+.gallery img{
+    height: 250px;
+}
+.gallery1{
+    background-color: pink;
+
+}
+.gallery1 .story .container.container .card{
+    margin-bottom: 50px;
+}
+.images1 img{
+    height: 300px;
+    width: 288px;
+}
+.images1{
+    margin-bottom: 10px;
+}
+.journal .container .row{
+    margin-bottom: 50px;
+}
+.last{
+background-image: url(./couple-443600_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    width: 100%;
+    position: relative;
+    
+}   
+.form1{
+    height: 700px;
+    width: 700px;
+    background-color: white;
+    margin-top:200px; ;
+    margin-bottom: 200px;
+}
+.inputss{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    
+}
+.inputss .input1{
+    width: 400px;
+    margin-left: 5px;
+}
+.inputss1{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    
+}
+.inputss1 .input2{
+    width: 600px;
+    margin-left: 5px;
+}
+.inputss2{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    
+}
+.inputss2 .input3{
+    width: 400px;
+    margin-left: 5px;
+}
+.inputss3{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    
+}
+.inputss3 .input4{
+    width: 600px;
+    margin-left: 5px;
+}
+.inputss4{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.inputss4 button{
+    border: solid 1px black;
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
